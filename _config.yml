@@ -1,0 +1,28 @@
+name: Entropy
+favicon: null
+layout_spectrum: 0.85604277998209
+typography_spectrum: 0.5350231172051281
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6266504363156855
+  lightness: 0.6097243430558592
+  saturation: 0.2562039461918175
+  rhythmicContrast: 0.36483338102698326
+purpose: []
